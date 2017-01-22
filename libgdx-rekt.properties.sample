@@ -1,0 +1,3 @@
+# Please change this to your JDK6 rt.jar path.
+# On OSX it's $JAVA6_HOME/bundle/Classes/classes.jar
+rtPath=$JAVA6_HOME/jre/lib/rt.jar

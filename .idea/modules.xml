@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/libgdx-rekt.iml" filepath="$PROJECT_DIR$/.idea/modules/libgdx-rekt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/libgdx-rekt_main.iml" filepath="$PROJECT_DIR$/.idea/modules/libgdx-rekt_main.iml" group="libgdx-rekt" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/libgdx-rekt_test.iml" filepath="$PROJECT_DIR$/.idea/modules/libgdx-rekt_test.iml" group="libgdx-rekt" />
+    </modules>
+  </component>
+</project>
